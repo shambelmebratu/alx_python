@@ -1,4 +1,4 @@
-#!/bin/bash/python
+#!/bin/bash/python3
 word = "Holberton"
 word_first_3 = word[:3]
 print(word_first_3)
